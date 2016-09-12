@@ -1,2 +1,1 @@
-def shantnu_joke():
-    print("There are 10 types of programmers: Thsoe who understand binary, adn those who don't. Also, me.")
+from .shantnu_joke import shantnu_joke
